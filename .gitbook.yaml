@@ -1,0 +1,8 @@
+root: ./docs/
+
+structure:
+  readme: ./welcome.md
+  summary: ./summary.md
+
+redirects:
+  ceciestuntest: ./coucou.md
