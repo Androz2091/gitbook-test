@@ -7,4 +7,3 @@
   * [Installation - Linux](installation/linux.md)
   * [Installation - Windows](installation/windows.md)
 * [test page french](test-page-french.md)
-
