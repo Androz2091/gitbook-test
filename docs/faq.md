@@ -4,7 +4,7 @@
 
 ### Npm error : this is related to npm not being able to find a file.
 
-If, when you try to install the modules with `npm install` this error appears, don't panic it is very easy to solve.
+If, when you try to install te modules with `npm install` this error appears, don't panic it is very easy to solve.
 
 ![](https://i.goopics.net/ZYdZv.png)
 
@@ -16,7 +16,7 @@ No you can't. MongoDB is not available on Glitch.
 
 ### Can I host the bot on Heroku?
 
-Yes, sure even if it will require you to be a little resourceful and time consuming.  
+Yes, sure even if it will require you to be a little resourceful and time consuming.
 Here are some help links:
 
 * [Use MongoDB with Heroku](https://scotch.io/tutorials/use-mongodb-with-a-node-application-on-heroku)
@@ -36,7 +36,7 @@ Auto moderation automatically removes Discord invitations. This prevents members
 
 ### The bot does not respond after sending a command
 
-Check that the bot has the permissions to send messages and try again.  
+Check that the bot has the permissions to send messages and try again.
 If it still doesn't work, it's a bug, join the [support server](https://discord.atlanta-bot.fr)!
 
 ## Any more questions? Join the [support server](https://discord.atlanta-bot.fr)!
